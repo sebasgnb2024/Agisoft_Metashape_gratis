@@ -1,0 +1,141 @@
+@charset "utf-8";
+.contenedor_principal header {
+    width: 93%;
+    height: 80px;
+    background-color: #1100EC;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 800;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 5px;
+    padding-top: 15px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-variant: normal;
+    font-size: large;
+    line-height: 23px;
+    text-shadow: 0px 0px 24px;
+}
+.contenedor_principal .menu {
+    width: 93%;
+    height: 70px;
+    background-color: #000000;
+    color: #FDFDFD;
+    font-size: 15px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.contenedor_principal .menu_lateral {
+    width: 34.9%;
+    background-color: #1100EC;
+    height: 617px;
+    margin-top: 5px;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    margin-bottom: 5px;
+    padding-top: 44px;
+    margin-right: 5px;
+    margin-left: 0px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 18px;
+    padding-right: 0px;
+    line-height: 31px;
+}
+
+.contenedor_principal .publicacion {
+    width: 57.7%;
+    background-color: #FFFFFF;
+    float: left;
+    height: 650px;
+    margin-top: 5px;
+    padding-top: 11px;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+}
+.contenedor_principal .publicacion .ARTICULO1 {
+    width: 79%;
+    height: 381px;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: auto;
+    color: #020202;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
+.contenedor_principal .publicacion .ARTICULO2 {
+    width: 39%;
+    background-color: #FFFFFF;
+    height: 185px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    margin-left: 30px;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+
+.contenedor_principal .publicacion .ARTICULO3 {
+    width: 39%;
+    height: 185px;
+    float: right;
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 30px;
+    font-size: 20px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-weight: bold;
+}
+
+
+
+
+.contenedor_principal .piede_pagina {
+    width: 93%;
+    height: 40px;
+    background-color: #FFFFFF;
+    clear: both;
+    color: #000000;
+    text-align: center;
+    font-size: 13px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-right: 5px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    font-weight: normal;
+    padding-top: 9px;
+    text-decoration: underline;
+    text-shadow: 0px 0px;
+}
+.contenedor_principal .logos {
+    width: 6.5%;
+    height: 891px;
+    background-color: #FFFFFF;
+    float: right;
+    margin-top: -891px;
+    margin-right: 0px;
+    border-radius: 10px;
+    padding-left: 0px;
+    text-align: center;
+}
+tr td a {
+}
